@@ -1,5 +1,11 @@
-# Live Website Link
+# Deployed Website Link
 (https://cameo-celebrity.netlify.app/)
+
+# Backend Repository Link
+(https://github.com/Abhi-nav-sharma/cameo-clone-backend)
+
+# Deployed Backend Link
+(https://cameo-backend.herokuapp.com/)
 
 # Getting Started with Create React App
 
